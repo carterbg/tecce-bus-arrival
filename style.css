@@ -1,0 +1,10 @@
+body {
+	padding: 0; margin: 0;
+}
+#schoolbus {
+	margin: auto;
+	display: table;
+}
+pointer {
+    cursor:pointer;
+}
